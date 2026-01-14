@@ -1,5 +1,5 @@
 import requests
-API_KEY="AIzaSyAXAlnURwCMALRALpSS0F7KAyshBlQwDL8"
+API_KEY="Your api key"
 url=f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={API_KEY}"
 headers={
   "Content-Type":"application/json"
